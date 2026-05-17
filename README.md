@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sayan 👋
 
-<!--
-**isayansaha/isayansaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Aspiring Java Full Stack Developer  
+🚀 Learning React, Spring Boot, and DSA  
+📌 Interested in Backend Development and Full Stack Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- MySQL
+- Git & GitHub
+
+---
+
+## Currently Working On
+- Full Stack Food Delivery System
+- DSA Practice
+- Spring Boot Backend Development
+
+---
+
+## Goals for 2026
+- Become internship-ready
+- Build strong full stack projects
+- Improve DSA and problem-solving
+- Contribute consistently on GitHub
